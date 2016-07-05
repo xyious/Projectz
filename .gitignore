@@ -40,3 +40,9 @@ bower.json
 
 # Ignore Byebug command history file.
 .byebug_history
+
+#to protect the passwords....
+config/database.yml
+
+# Ignore Spring files.
+/spring/*.pid
