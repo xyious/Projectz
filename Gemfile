@@ -11,6 +11,8 @@ gem 'jbuilder',     '2.4.1'
 gem 'pg',	    '0.18.4'
 gem 'bootstrap-sass', '3.3.6'
 gem 'bcrypt',         '3.1.11'
+gem 'will_paginate',           '3.1.0'
+gem 'bootstrap-will_paginate', '0.0.10'
 
 group :development do
   gem 'web-console',           '3.1.1'
